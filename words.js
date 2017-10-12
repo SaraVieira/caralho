@@ -48,6 +48,8 @@ module.exports = [
 	'mierda',
 	'perdona',
 	'porfavor',
+    'por-cojones',
+    'por-mis-huevos',
 	'merde',
 	'putain',
 	'saloperie',
