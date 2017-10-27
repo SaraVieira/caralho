@@ -116,8 +116,6 @@ You can also use:
 * cmar (asshole)
 * izvini (sorry)
 * ups (ooops)
-* sta (what?)
-* koji (what?)
 * upickumaterinu ("u picku materinu" in mother pussy)
 * mrsupickumaterinu ("mars u picku materinu" go to your mother's pussy)
 * stakojikurac ("sta koji kurac" what the fuck)

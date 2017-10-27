@@ -73,8 +73,6 @@ module.exports = [
 	'cmar',
 	'izvini',
 	'ups',
-	'sta',
-	'koji',
 	'upickumaterinu',
 	'mrsupickumaterinu',
 	'stakojikurac',
