@@ -55,13 +55,14 @@ You can also use:
 * verdammt (damned)
 * kacke (shit)
 
-### Persian (These google translation may be wrong)
-* jakesh (Pussy)
-* daus (Sickle)
-* antar (Ether)
-* pofuz (Poufos)
+### Persian
+* jakesh (Pander)
+* daus (Cuckold)
+* antar (Baboons)
+* pofuz (Nerveless)
 * lanati (Damn)
-* lamasab (Lomost)
+* lamasab (Damn)
+* kooni (Catamite)
 
 ### Konkani (Google cannot translate PR anyone ?)
 * chont
